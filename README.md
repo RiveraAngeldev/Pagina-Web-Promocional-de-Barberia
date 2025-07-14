@@ -29,9 +29,11 @@ Si estás interesado en adquirir una licencia o una versión personalizada, por 
 
 ---
 
-**Autor:** Rivera Angel
-**Correo:** rivera.angeldev@gmail.com
-**GitHub:** [https://github.com/RiveraAngeldev](https://github.com/RiveraAngeldev)
+- **Autor:** Rivera Angel
+
+- **Correo:** rivera.angeldev@gmail.com
+
+- **GitHub:** [https://github.com/RiveraAngeldev](https://github.com/RiveraAngeldev)
 
 ---
 
