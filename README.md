@@ -1,4 +1,4 @@
-# Barbería - Página Web Promocional Responsive
+# Barbería - Página Web Promocional Responsive 💈
 
 Esta es una página web profesional diseñada para promocionar una barbería. Incluye una sección de servicios, galería de cortes y precios. El diseño es responsive y se adapta automáticamente al modo oscuro o claro según la configuración del sistema operativo del dispositivo.
 
